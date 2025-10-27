@@ -1,0 +1,10 @@
+services:
+  valkey:
+    image: valkey/valkey
+    ports:
+      - 6379:6379
+# clients-> Basically keeps the connection information
+# queues-> where I keep the workers
+
+
+# RQ(Redis Queue) is a simple python library for querying jobs and processing them in the background with wroker.
