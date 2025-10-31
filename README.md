@@ -8,5 +8,5 @@
 
 
 
-# this is how vecots are stored in avector-db,here its QDRANT 
+# this is how vectors  are stored in a vector-db, here its QDRANT 
 ![WhatsApp Image 2025-10-26 at 06 35 36_7fa53627](https://github.com/user-attachments/assets/b0254684-ba7b-4f0e-a497-70725c003de1)
