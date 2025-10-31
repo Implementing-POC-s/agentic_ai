@@ -10,3 +10,7 @@
 
 # this is how vectors  are stored in a vector-db, here its QDRANT 
 ![WhatsApp Image 2025-10-26 at 06 35 36_7fa53627](https://github.com/user-attachments/assets/b0254684-ba7b-4f0e-a497-70725c003de1)
+
+#this how chunks are created so the next paragraph should have a context of previous para,,ONLY and ONLY IFF its inside a CONTEXT WINDOW.
+![WhatsApp Image 2025-10-26 at 01 44 46_eb2b9c21](https://github.com/user-attachments/assets/18d0efff-24c4-4e72-9eec-83e177d31fc9)
+
