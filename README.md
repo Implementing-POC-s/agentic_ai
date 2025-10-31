@@ -5,3 +5,8 @@
  1.Take the user_query
  2.Create vector embeddings
  3.Do a similarity search,Along with the relavant chunks,we call the model and do the chatting bussiness.
+
+
+
+# this is how vecots are stored in avector-db,here its QDRANT 
+![WhatsApp Image 2025-10-26 at 06 35 36_7fa53627](https://github.com/user-attachments/assets/b0254684-ba7b-4f0e-a497-70725c003de1)
