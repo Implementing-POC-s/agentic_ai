@@ -14,3 +14,35 @@
 #this how chunks are created so the next paragraph should have a context of previous para,,ONLY and ONLY IFF its inside a CONTEXT WINDOW.
 ![WhatsApp Image 2025-10-26 at 01 44 46_eb2b9c21](https://github.com/user-attachments/assets/18d0efff-24c4-4e72-9eec-83e177d31fc9)
 
+
+
+# RAG  is an AI framewok that combines the strengths of LLMs with external knowledge sources.
+
+INDEXING PHASE
+![WhatsApp Image 2025-10-25 at 17 09 13_1fbdc4a8](https://github.com/user-attachments/assets/716ea522-13b2-42fc-99d7-607d236314aa)
+
+
+
+#RETRIEVAL PHASE
+![WhatsApp Image 2025-10-25 at 17 20 38_99d81947](https://github.com/user-attachments/assets/143a9f43-33f4-4f0e-aac1-1cdcf65fd703)
+
+
+
+#AGENT->LLM with TOOLS.
+
+# EMBEDDINGS-> An embedding model is a type of machine learning model that transforms complex, high-dimensional data (like text, images, or audio) into simplified, numerical vector representations called embeddings.
+
+
+
+#json.loads()->Converts a Json string toa python object.
+#json.dumps-> Converts apython object to a JSON string.
+
+
+# API authentication for OpenAI hosts:
+![WhatsApp Image 2025-10-23 at 20 10 12_6b4016dc](https://github.com/user-attachments/assets/bf676b83-c5e0-427c-a01d-1adc30ee08f4)
+
+
+
+
+
+
