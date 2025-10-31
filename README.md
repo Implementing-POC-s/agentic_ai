@@ -3,5 +3,5 @@
 
 # steps for RETRIEVAL phase->
  1.Take the user_query
- 2./n Create vector embeddings
- 3./n Do a similarity search,Along with the relavant chunks,we call the model and do the chatting bussiness.
+ 2.Create vector embeddings
+ 3.Do a similarity search,Along with the relavant chunks,we call the model and do the chatting bussiness.
